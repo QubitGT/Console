@@ -5,8 +5,8 @@
 ---
 
 <p align="center">
-	<a href="https://github.com/Seralyth/Console/releases"><img src="https://img.shields.io/github/v/release/Seralyth/Console?label=version&style=for-the-badge"></a>
-	<a href="https://github.com/Seralyth/Console/releases/latest"><img src="https://img.shields.io/github/downloads/Seralyth/Console/latest/Console.dll?style=for-the-badge"></a>
+	<a href="https://github.com/QubitGT/Console/releases"><img src="https://img.shields.io/github/v/release/QubitGT/Console?label=version&style=for-the-badge"></a>
+	<a href="https://github.com/QubitGT/Console/releases/latest"><img src="https://img.shields.io/github/downloads/QubitGT/Console/latest/Console.dll?style=for-the-badge"></a>
 </p>
 
 ---
