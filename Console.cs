@@ -474,7 +474,7 @@ namespace Console
             }
         }
 
-        public const byte ConsoleByte = 68; // Do not change this unless you want a local version of Console only your mod can be used by
+        public const byte ConsoleByte = 64; // Do not change this unless you want a local version of Console only your mod can be used by
         public const string BlockedKey = "ConsoleBlocked"; // Do not change this EVER!!!
 
         public static bool adminIsScaling;
