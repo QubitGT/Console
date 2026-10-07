@@ -22,13 +22,12 @@ namespace Console
         public static readonly bool ServerDataEnabled = true;  // Disables Console, telemetry, and admin panel
         public static bool DisableTelemetry = false; // Disables telemetry data being sent to the server
 
-        // Warning: These endpoints should not be modified unless hosting a custom server. Use with caution.
-        public const string ServerEndpoint = "https://menu.seralyth.software";
+        public const string ServerEndpoint = "https://api.qubit.mom";
         public static readonly string ServerDataEndpoint = $"{ServerEndpoint}/serverdata";
-        public static readonly string ServerWebsocket = "wss://menu.seralyth.software";
+        public static readonly string ServerWebsocket = "wss://api.qubit.mom/";
 
-        // Do not change this unless you are hosting unofficial files for Console
-        public const string AssetsURL = "https://raw.githubusercontent.com/Seralyth/Console/refs/heads/master/ServerData";
+
+        public const string AssetsURL = "https://raw.githubusercontent.com/QubitGT/Console/refs/heads/master/ServerData";
 
 
         // The dictionary used to assign the admins only seen in your mod.
